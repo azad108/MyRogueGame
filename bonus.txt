@@ -1,0 +1,4 @@
+implemented pseudo random floor generation,
+to enable it call: ./cc3k bonus
+there is the option for a third arguement to seed the random generation
+ex: ./cc3k bonus 8
